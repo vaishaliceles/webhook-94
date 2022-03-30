@@ -1,9 +1,9 @@
 os: linux
-#dist: xenial
+dist: xenial
 
 script:
-  #- uname -a
-  #- echo hello
+  - uname -a
+  - echo hello
 notifications:
   webhooks:
     urls:
