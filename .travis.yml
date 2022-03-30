@@ -10,6 +10,6 @@ notifications:
       - https://webhook.site/46a360da-63e3-4128-8995-4143a83054bd
     on_success: always
     on_failure: always
-    on_start: always
+    on_start: change
     on_cancel: always
     on_error: always
